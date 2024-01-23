@@ -1,3 +1,5 @@
-Run node routes/app.js
+write npm init first
+
+run node routes/app.js
 
 and follow the link localhost:3000/
